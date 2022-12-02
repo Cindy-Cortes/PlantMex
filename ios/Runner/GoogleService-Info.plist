@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>285110382155-j62oklv0au4d2iejnit2r0ms8f0goiqv.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.285110382155-j62oklv0au4d2iejnit2r0ms8f0goiqv</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>285110382155-4ndga2abrvu8lmv6rd7frc53d0ghknhc.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyB9NrdXuHvJ597WD7j_sSQFkL9TgqEG7pI</string>
+	<key>GCM_SENDER_ID</key>
+	<string>285110382155</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.plantmex</string>
+	<key>PROJECT_ID</key>
+	<string>plantmex-22</string>
+	<key>STORAGE_BUCKET</key>
+	<string>plantmex-22.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:285110382155:ios:c8fefab16977b4ecac27ce</string>
+</dict>
+</plist>
